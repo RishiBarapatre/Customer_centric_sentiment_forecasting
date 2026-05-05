@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# VS Code
+.vscode/
+
+# Logs and output
+*.log
+*.out
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Model checkpoints
+*.ckpt
+*.pt
+*.pth
+*.h5
+
+# Transformers cache
+.cache/
+huggingface/
+*.bin
