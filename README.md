@@ -66,7 +66,6 @@ Evaluated on a timestamped, public domain product review dataset.
 
 ## Documentation & Resources
 
-* **[Visual Walkthrough / Presentation](https://www.canva.com/design/DAGnKB8d3Hg/V-8sYcg_aqRZ-gTNMH9egA/edit):** A high-level overview of the problem space and model architecture .
 * **[Technical Report](./Docs/technical_report.pdf):** Detailed documentation covering the mathematical foundations of the Time-Aware Attention mechanism and the Dual-Graph GCN configuration .
 
 ---
